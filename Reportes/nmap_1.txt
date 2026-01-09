@@ -1,0 +1,17 @@
+# Nmap 7.98 scan initiated Fri Jan  9 19:20:03 2026 as: /usr/lib/nmap/nmap --privileged -T4 -A -v -oN /home/jco11/MegaToolkit/Reportes/nmap_1.txt 1
+Nmap scan report for 1 (0.0.0.1)
+Host is up (0.066s latency).
+All 1000 scanned ports on 1 (0.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: 3Com 4500G switch (90%), H3C Comware 5.20 (90%), Huawei VRP 8.100 (90%), Microsoft Windows Server 2003 SP1 (90%), Oracle Virtualbox Slirp NAT bridge (90%), QEMU user mode network gateway (90%), AXIS 2100 Network Camera (90%), D-Link DP-300U, DP-G310, or Hamlet HPS01UU print server (90%), HP Tru64 UNIX 5.1A (90%), Sanyo PLC-XU88 digital video projector (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+1   1.00 ms 0.0.0.1
+
+Read data files from: /usr/share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jan  9 19:20:29 2026 -- 1 IP address (1 host up) scanned in 25.67 seconds
