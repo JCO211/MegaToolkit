@@ -1,0 +1,16 @@
+# Extensiones de Python (compilados)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Reportes temporales (opcional, si quieres que la carpeta esté vacía)
+Reportes/*.txt
+Reportes/*.log
